@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtouboul
 - 👀 I’m interested in colorization
-- 🌱 I’m currently learning about various method that use modeling to color B&W videos
+- 🌱 I’m currently learning about various methods that use color reference modeling to color B&W videos with high accuracy
 - 💞️ I’m looking to collaborate on developping and implementing into a user firendly UI 
 - 📫 You can reach me at jeantouboul@gmail.com
 
